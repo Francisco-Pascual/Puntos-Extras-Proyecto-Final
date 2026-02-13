@@ -1,0 +1,24 @@
+Iniciar el programa 
+Definir el precio base de la cotización 
+Solicitar el nombre del asegurado 
+Verificar si el usuario desea salir del sistema
+Solicitar la edad de asegurado
+Validar que el asegurado sea mayor de edad.
+- si es menor de edad, finalizar la cotizacion 
+Calcular el recargo correspondiente segun la edad del asegurado 
+Preguntar si el asegurado es casado/a
+- si está casado, solicitar la edad del conyuge y calcular el recargo correspondiente.
+- si no esta casado continuar sin aplicar reacargo por conyuge
+Preguntar si el asegurado tiene hijos
+- si tiene hijos, solicitar la cantidad de hijos y calcular el recargo correspondiente 
+- si no tiene hijos continuar sin aplicar recargo por hijos 
+Solicitar el número de propiedades del asegurado 
+Calcular el recargo por cantidad de  propiedades
+Solicitar el salario mensual del asegurado 
+Calcular el recargo correspondiente según los ingresos 
+Sumar todos los recargos al precio base 
+Mostrar el nombre del asegurado 
+Mostrar el total de recargos 
+Mostrar el precio final de la cotización 
+Preguntar si el usuario desea realizar otra cotización 
+Repetir el proceso o finalizar el programa
