@@ -1,0 +1,3 @@
+Este proyecto consiste en un programa que permite realizar cotizaciones de seguros de forma interactiva.
+El sistema solicita información del asegurado, como la dead, estado civil, cantidad de hijos, cantidad de propiedadades e ingresos mensuales.
+Con base esto datos, el programa calcula el costo total de la cotización aplicando distintos recargos según reglas establecidas. El objetivo es simular el proceso básico del cálculo de una cotización de seguros.
